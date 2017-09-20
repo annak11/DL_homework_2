@@ -1,11 +1,10 @@
 ([^.]\b(o|O)\S+@\S+\.)
 
-34
+31
 
  5389: To: outlook.team@enron.com
 10713: To: outlook.team@enron.com
 11587:  Outlook.2000@enron.com
-13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
  19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
  30118: off-yild@zdemail.zdlists.com.
  30122: blank e-mail to on-yild@zdemail.zdlists.com
@@ -15,7 +14,6 @@
  36055: Sender: owner-strawbale@crest.org
 38056: To: outlook.team@enron.com
  39073:  Outlook.2000@enron.com
- 41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
  48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
  52637: From: outlook-migration-team@enron.com
  52653: From: outlook-migration-team@enron.com
@@ -34,7 +32,6 @@
  85087: Sender: owner-strawbale@crest.org
  86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
  90620: Sender: owner-strawbale@crest.org
- 90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
  92996:  Outlook.2000@enron.com
 
 
